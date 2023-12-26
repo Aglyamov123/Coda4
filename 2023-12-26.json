@@ -1,0 +1,26 @@
+{
+  "name": "Ola Ray",
+  "age": 50,
+  "address": {
+    "street": "Idusi Key",
+    "city": "Mivwiheli",
+    "state": "HI",
+    "zip": "54909"
+  },
+  "contact": {
+    "phone": "(779) 565-8493",
+    "servicePhone": "800538593"
+  },
+  "birthday": "1963-05-09T02:43:01.386Z",
+  "ip": "198.40.183.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Emiagu hewac ruepinu foceg le omfaz behzuh zes lih sizgej al ica ga lakbof mi eb. Ido fuf kegzucke og et rasvek ehcu juz kurpuric dodhabuj fobofi wa nerege. Wo nukze zuewu ihti jimgu nehmuv ju bojji bov loiheda kammutni bavu samfut suaj zol uhemebe anidel. Mer mipguub lispi avo dab eclafbuk fofaupa sav cozohop mosnaaki zejheen ot no ubawuwik.",
+    "bio": "Vobegno rakjujoh lefe jimiwti zustin eppuwzun delu jouhout hukici anrih sugafibef ukutomu tul. Uk digunit ca towud lijgeh gofigsu rezucti gosotu ocifu pikij oskoc lo woiropa rimwetsa. Ec pow deg voig zowtuifu uwupi vuc cevlokne vawu da femsowow awlait pu si dipe."
+  },
+  "apiKey": "58b51aed03fca4011b5d49c3085180c6eeb3ce2f954a16a1c03b6e2f9b092459",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}

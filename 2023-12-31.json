@@ -1,0 +1,26 @@
+{
+  "name": "Nina Harvey",
+  "age": 22,
+  "address": {
+    "street": "Kujtej Boulevard",
+    "city": "Witeen",
+    "state": "MI",
+    "zip": "78213"
+  },
+  "contact": {
+    "phone": "(889) 435-1623",
+    "servicePhone": "800398239"
+  },
+  "birthday": "1987-04-22T07:03:06.629Z",
+  "ip": "87.230.247.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Viti so wumniv mujca uglaleb di jupofca fi kembuvo nuwgi ta uzcevru fahboam pasiglu ovuuke kavudiw. Jidawen ker cahi juzegi goc ici eh enwu dev ogkap mumenhec notofnuf rur nedson fivro. Jaufote gajwusof ti rejile evagaju nov ajbot wasgureh umilimak gaherolo zadzamiw teta mekfed ikepaga jova pu suko fu. Rabonri ruzro ro rehici le bu cejaco zop opalaf pah rajicfe raruf tu.",
+    "bio": "Vi biz totaful fesjag ac wiw hetafe bo vege vavton dossikeg edlipap wih kaf vikogvu ce na pu. Zi gubed podjaj pek zote zitenubeb diwlokaw wajkek naj kot hovviz misi vozaz. Mi peuniril fincac sovomwe dohco tatho atnenud pehzab eh darzavku okeacman ocpor ujarezew kithifvor nudufvu cagmodza wotliru. Tutoniuzi imeinobel dit uw suzaga hu ruac bu cap sojbomuz ogiugouv sacad nevtis. Jedte dualo divodlaf wudewu bafrot azdozah hed nikom omfip korhud holo gi umiudol milgusog le pebed butopu dologi."
+  },
+  "apiKey": "1c1453471b2b6ea7ee113c72a874782b760b7ff37a92ac421a4c470a9f841a5d",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Logan",
+  "age": 31,
+  "address": {
+    "street": "Vuac Junction",
+    "city": "Dikoufu",
+    "state": "ND",
+    "zip": "00831"
+  },
+  "contact": {
+    "phone": "(968) 869-1462",
+    "servicePhone": "800191642"
+  },
+  "birthday": "1960-03-30T12:48:46.003Z",
+  "ip": "103.85.248.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja ken tedtiziti cek maeduho eve zotno vakusapo gilerfu id ri ko le ne eve fivvud ganul elajete. Isi tohalo go iroteko fahha senwi sutzuzi miaho obgi metkor mahpet duju ardu uhoam rus asirut. Tapuf do hugo pun nih fu badoh wu leckubhu zovilru juso vi nousohuw.",
+    "bio": "Ono sani evvipa fud cirbofi zepe zadur bat ottir co umouwpir hu cumfupsez wun. Tujrev wivuzojof loucu sawip vod fer ho bev zas bu ler he bem za. Ofikata lerutawin si pamunrif gazwas rimes cubduobi bisup ibe gok fergi femu pi naihcef."
+  },
+  "apiKey": "9752bc9c370d8e9051ec4bef50b6d3a32491027629655fd7a1395c9a5ee9877d",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}

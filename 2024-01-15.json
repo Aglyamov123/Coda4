@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Barker",
+  "age": 43,
+  "address": {
+    "street": "Meget Court",
+    "city": "Tigraco",
+    "state": "OK",
+    "zip": "49547"
+  },
+  "contact": {
+    "phone": "(900) 835-6557",
+    "servicePhone": "800133969"
+  },
+  "birthday": "2004-07-01T08:55:02.545Z",
+  "ip": "128.27.19.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Pampefu keptigu emu taosugav ah relputvu fa cicic da afegaj doh si. Navdisi lufujul zakib vot imizucit geufi igiseodi osicuf mi cuju fut urniv caz. Gevigo hudug atasol cubnoke kegheot iw ifjub ogzife ihaocibe ilvib iwironlep hi nujo taiv coal cassaw huzmoh im. Daku totba hes mi vejuje vudoba cali cov opi jogjalco caor kedaema it obu ecwun liwepah alwega. Todba jif fodugi afle hacus fih iwtako li ece rirduvco ruini dicju urap labedut vowu. Zugefu fiobe fak ma laclec kosfas dital remod gema aro wa sugaj bo zazolosi itosap.",
+    "bio": "Ga asjo evakitvuc ceferze olu uwiupiidu kiztontes guftogci ge ceftukta ludiso kangesbek. To buhmaigi oj saceda jeinano gaf duomo rupwilzaj tugasoc uga koov utbobo rafugif zerwa fobedru tit sagead odiusalu. Ked lij girzar tit hebe epecad kiboki lo sahjew deriuhi ivu giesal. Behultut beoda te wu fun lupemi naamur zog za egacirin kumilinik nocku pev mi izutodu tu si."
+  },
+  "apiKey": "2f974b27bcf264c4ed6190c2d72b255df18b396352d7ae7c917532072919a5ab",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}

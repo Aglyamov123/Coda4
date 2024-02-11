@@ -1,0 +1,26 @@
+{
+  "name": "Grace Neal",
+  "age": 33,
+  "address": {
+    "street": "Gikgaw Manor",
+    "city": "Siwesim",
+    "state": "DC",
+    "zip": "09441"
+  },
+  "contact": {
+    "phone": "(268) 803-3352",
+    "servicePhone": "800131875"
+  },
+  "birthday": "2006-06-17T08:39:25.026Z",
+  "ip": "200.42.152.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Rojwefbiz fofzo je da li silwe mokekaj kuwca purej honu raknuw ukmi su ow undob adu. Wadler liw azoikmiw ja bivobre ru runinufu kaf razihgun figid loh kokbiwto sodok ruwas ki migucgup. Ju ocmipa tofiin fefadhod as nefi ala ucwo wup fi sogotbe ewiecza teku munabre ta pafbamew lahdiwci. Di teg ic ba sadaz tevkiwo odfuwgiz areufzu modobcod vucmaju mug bovaku. Ani lu pihuri vuhpetbon wi rolupvi fubukko sam maslitnus wuosulur fib wufafva laszekfuk. Ju mehasof za kufig apeciweb faninu sevizra lepig loet saarsa ter pi esgaor kedibkah. Sejodoga odu wigla mefod gatated osa tivemet ohopimeb gefhol jugit go vo mapovtof.",
+    "bio": "Ze naco viero ledo loucemet gawiruw gutra ga zaun wovuc pegu re bisecho onne tafemo dealo. Wura lisdo nuv izi enoin tor vacafli domoc la zohono sefo nip igo. Econike ju erocub gogav igu pozahired hefo lor newrob hasaon itavicani moj de obanef fa."
+  },
+  "apiKey": "34fd48371696b2e3ed5e40f40fef6f3fbccb49b514ecc31a73b0cc04b2190d9b",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Harold Nichols",
+  "age": 45,
+  "address": {
+    "street": "Husvo Circle",
+    "city": "Worbaka",
+    "state": "MD",
+    "zip": "33692"
+  },
+  "contact": {
+    "phone": "(617) 551-7522",
+    "servicePhone": "800895688"
+  },
+  "birthday": "2002-06-07T08:08:57.393Z",
+  "ip": "113.241.172.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuj gehomav dihu ev nuhu rewzi das mugar famijutu sikhot ehamuf ba riwisi lacrero con ri. Wakaca gaicerez mehmim rege uj dupibrap bagfu san juk madpu ub pu. Avfodbi muz fizvaf lebubnas nevosdo bormis wegde panet niogeso pibhus fub ci. Remleva igiwusha sebe jajsiuj cagpopep ta bos wurjov giz wavcazeb pe ennabmol on zocakfa hamut wih hamozhi mi. Zosmab gam jufid mohih ophed jih giz vuzubupej galrec zed uhhuhpow pejgulde degjudid iruzovlel dociwu sus bi. Siku cokumad mu booci fa valewow zuvugike uriutmes fo ciduej zawde saiso ahesa jadturab. Ilhaaw asu ce vadarhe ve kafesgeh futve vul mibovi zodgoaru pi na.",
+    "bio": "Etva orudine diuh ripob bacga ji vetawo viofocil nisigahal pegif low bervapbum. Fo guowhec toawfe ejjuah rodis ro biba sob faug ec hil teki oshep omfar masa tofumil jinuvma im. Peiri ihukonban bawsi faikare mojsa tih wu eci nic tam bal erjo dagoru lo fi va viuzi."
+  },
+  "apiKey": "dec72545b2032c13577029252476845b063316b80321ed560e83c63efb06bfe0",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}

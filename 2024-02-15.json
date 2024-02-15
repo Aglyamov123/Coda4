@@ -1,0 +1,26 @@
+{
+  "name": "Walter Collier",
+  "age": 62,
+  "address": {
+    "street": "Wiwid Road",
+    "city": "Fanfaka",
+    "state": "NJ",
+    "zip": "51680"
+  },
+  "contact": {
+    "phone": "(781) 876-3045",
+    "servicePhone": "800924749"
+  },
+  "birthday": "1971-03-09T10:45:05.866Z",
+  "ip": "128.80.156.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Haudu wiganumus azdiupe fahkewgat kozuf derli azafi babemu tujamuh lovov epuva ligo bucaj ziw odho wocfi. Mopeat tiudeat roznowhi zisu jaju mutnumede wikgog keg aw feig nof gen. Dipfize uduven coehefan ti mak nut kul diz go zi egruve bawseg.",
+    "bio": "Zorjabkec gigvinlup adsozut adi zerjedku luckad wes jacaj juttevlap kofaz cuz ledrugvir vo ejeicjov. Vugeniz roav lo cos vegde ekig ussesus noci sezoc wumu nuonu sofurik. Vebmapim pizu gan ricti lehazan fob esevul babokle su cegad bu pe vabakhu woluh jasekko ifaajve affuipe feba. Waruzev ukamuhmo obsefi arufauta pena nasoz ajaafta vihac itsaw rogitka vurdincog fagra ul hu buh."
+  },
+  "apiKey": "7a6b6ab20779ee5ff5a65fdaaca6fb27b56600581bfd6d253f7fa88e2b379631",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}

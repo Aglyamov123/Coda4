@@ -1,0 +1,26 @@
+{
+  "name": "Annie Chambers",
+  "age": 42,
+  "address": {
+    "street": "Jazoj Manor",
+    "city": "Iheninpu",
+    "state": "AR",
+    "zip": "27126"
+  },
+  "contact": {
+    "phone": "(750) 618-1696",
+    "servicePhone": "800888152"
+  },
+  "birthday": "1983-11-04T05:07:05.612Z",
+  "ip": "68.27.235.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Tap pememo lori jetafki oj kumori pimeribop soga icavibe gamomi biecu vep. Ugekoviv joro unasa setfuhwoc koftaz ujiip ruad wupnon epdimuw of fipriupe nohkiluj fejiizo. Azosor zed pe oriuhepe ebi nus niubofa rihu batag wawo ev uhdagmup wawedev pagricto wubdilel diwun ihugusek.",
+    "bio": "Bir zanmi wew vet muhip kuotovu ib sijsu li getfugi lom sekuvca uhabidguc hifu idudolumo cehojto kurwezip tif. Sewkehir bis tolwan setitop ajiwu er no mow hebohzif igbe dez hipuw se unra gabkib ole. Umonokaj akgicuv fetvi bon ubeso iwanom calijekin dotfaige kojge jugu nujjehvak rejkicko."
+  },
+  "apiKey": "5450e4d0aa4b008de221ee521f1f4b1e32559096c412ce52d4a6e5fbc33a0354",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}

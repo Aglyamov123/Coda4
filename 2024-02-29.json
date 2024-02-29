@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Sullivan",
+  "age": 31,
+  "address": {
+    "street": "Pazpi Key",
+    "city": "Muzcani",
+    "state": "KS",
+    "zip": "39039"
+  },
+  "contact": {
+    "phone": "(870) 568-7656",
+    "servicePhone": "800937664"
+  },
+  "birthday": "2003-10-15T01:06:46.520Z",
+  "ip": "79.18.146.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Ene uweronci kodhimgeg ifatoz kokog alefa reonhib wed jetpuh fov habodfu gew. Adegizup ni izo aci hij kijud ubobam zobo podlafos ve otru juocaniz decpapa ettojrid mowewac ivo. Cap vewe osa ponuwtul biccob ba fibep ugavo ogjiv tilemjaj uve pofozsum ve.",
+    "bio": "Kov lopevdo vufneeda bobge hubbu co juebi cad mawokli ni data sifrumur benmon ko casluvnu. Obsehaf ubedos bivseto mobgih pir silub epo bamlaw elu huvhorav ohe moir agekhaw fir ilhafsi ze. Uhoeceweg zari lupuvle hicemame ceg songihu oncacap gucmez ihsijwa ab ogo ofivote mo hundudmu ra uvopopsaf."
+  },
+  "apiKey": "5224ecd3462a2328a6ef5ea69566e44005ad0a10085f1d1f837b73d3d66c994a",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}

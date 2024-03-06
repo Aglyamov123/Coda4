@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Reed",
+  "age": 60,
+  "address": {
+    "street": "Kocpoh Parkway",
+    "city": "Gebbugreg",
+    "state": "MD",
+    "zip": "73466"
+  },
+  "contact": {
+    "phone": "(505) 772-7731",
+    "servicePhone": "800137419"
+  },
+  "birthday": "1982-07-25T08:19:26.097Z",
+  "ip": "118.177.192.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze otrob cil zunij je guccejbej ijenutpur secmeglo fajikbi fisrewur liz nibdad. Puklojuf hur ret loga robov punot ez roasoho ugfatrag aho imaro cej tacru sozoc puweca bol dubtek losku. No dukiwiso vi duome be vuknimne diba egojuhgaf unikiofe bufku mubpadi sabte. Goicvo eb jijut mu mo pitaje suwcizho zivfagbiv erfor fen was moepu. Reg ibide tuguc walajeesi novivef su budfumolo mec juhgotit dede in enihah ahafu. Apalabtoj gulokuga nerorto il udi fifob dutrivloc dak mu vo rutdiz larud biroliz ho azu abuku ituot joc. Ajiludtu sim dike vahiw olilod bues cut enoulac badis dakek enofog nolucij pol.",
+    "bio": "Ecufoso deglaub com paunu law sacembub gupkihrek velzo wo ez ka olu zid neb. Gucid lomhuz pi oh tiskujnu maejmu pipeb hu tit ujugulaf siaz kaitis ubalion. Cecubza viceni kogiza waug azatuil edecvo udru ju go liwusoh disijif gemurvej vemo geaneoba peguh petet kobo papa."
+  },
+  "apiKey": "678e4806b1f6eab64a21f3f8cd20a68a38819278836a70e8a943560c539d3b23",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}

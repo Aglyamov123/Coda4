@@ -1,0 +1,26 @@
+{
+  "name": "Jackson West",
+  "age": 57,
+  "address": {
+    "street": "Zaspu Center",
+    "city": "Fuzlekaz",
+    "state": "MO",
+    "zip": "91025"
+  },
+  "contact": {
+    "phone": "(326) 632-7600",
+    "servicePhone": "800835435"
+  },
+  "birthday": "2005-05-13T11:44:18.357Z",
+  "ip": "73.50.166.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahidara kov oribow pijeen ithuhan oli babnuuz tis hufa veefe bitad doc. Hu udanuce seviaf holusti bopza eh gik jeupafo ji keg veikihi carumab anvi ofgoden irje. Ume ujo ehawliv lon vodenem dagho nazezi homikuz nob tambo cedap soba cicamol lejow.",
+    "bio": "Uwguk mope jofkeju rurot ulufiezo va gigen zuceka lal mejiwla idied bocbori halnuj bu vecatwik iltidet. Uzegilep kimnawvid uvonogkaz dacozwo iwi fusumo giviija perjap gok gikcitap rivi kehe pir reajuze lom gu zif obkarji. Owo otacikem lamaf fongugi sewol hus pimmah muhum la rujcuv ec ene warwawreh ipe javihap juhosusiv."
+  },
+  "apiKey": "63f357742f4a86d748889c65001a46a8443f7db9f411954b0cfd8df85eb96d60",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}

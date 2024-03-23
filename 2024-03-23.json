@@ -1,0 +1,26 @@
+{
+  "name": "Delia Fox",
+  "age": 64,
+  "address": {
+    "street": "Tole Extension",
+    "city": "Licemupa",
+    "state": "FL",
+    "zip": "66193"
+  },
+  "contact": {
+    "phone": "(247) 949-2387",
+    "servicePhone": "800787157"
+  },
+  "birthday": "1978-10-15T09:22:45.315Z",
+  "ip": "224.181.5.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Sapsi geuwe podwim hovvolbuv taju pof uktonid uz abo wofsana lunohad onacimo enilorza movuce curofahu etuwazjo wo. Micec ninpa piihe ju gis uhi rulhujil kerroz sizsi gagej wobcujvi taswube loz. Zebloom ojremu hic hurinfow jabela ducappiv fi owmuzzu geginpi labnigu koz evo ac aneimi. Ru jegejuihi mebamwuj sodir dib vaase fe gig ah fu sedmila wit gahmapcew mik fucuwde va. Reneveme ticvusit sakeh jicaene ankuwam hivfe pah ud utudouga onu gi losjoztu alpih bahen bas.",
+    "bio": "Jifso zojedi ejno vo di sowpot ku ne isbuc vosco ru zeloji po gilfi ju rermabud nufuka. Fesuc mofingi hajane itkiaf bup dubaguh cekiac wawecar ko ezhi tog sejlel. Ja veszo zazo feinuda ahe gulude puzin nesdazule gumlezvo sohza kiga bid tof."
+  },
+  "apiKey": "5bc5b96f658e01f30d17b40d7b476458fa0a8a88ad4272834ccac7d1ec612622",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}

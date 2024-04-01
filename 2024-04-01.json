@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Horton",
+  "age": 53,
+  "address": {
+    "street": "Wumev Plaza",
+    "city": "Ugwasik",
+    "state": "GA",
+    "zip": "05203"
+  },
+  "contact": {
+    "phone": "(779) 917-5477",
+    "servicePhone": "800749519"
+  },
+  "birthday": "1995-08-20T02:17:53.828Z",
+  "ip": "211.212.235.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Luv koge jaaraner edzu zotdodfuh rake pe lekdobvon lu awiewe ihiwim ne run. Nev til cipet lej no gosizu sundeva tasniun litar haczenuw veli tizewpab gowazew ezo jog. Ihuzafow oc hiomuew obi vapjal wauvo ne pededu kobholi bi nihvi mowu varvulowi. Zohimhu tolapem vu awu oj powidza puharakez retloaw veta zi lihkajgus kepisosa asat. Ihonog vimroc ure hiridu zolu bajmilmo fazfikwa ok ipzi ikiinjam jowel awihaf tepidu jovuaw lom loguvef. Relgi fe itu juf odo lipefliz zideke zipki fubas lupca nowpub hew cuba gijnoeju kodzoto dubwih jih isaleslip.",
+    "bio": "Fuufo kosforoge bedfe rigcif ho cacojfeb fajucaga kucveta cifatpu jo wu zun gagvilce mosvo. Tumru wodet woebgu mim sekivjin te ci ewrif fiupcu vo zi kahe lordupal adawibe. Otifupu lapjusbag feb kacev tac va rivzahrun lirusa ehe fiuwu munideh je mow zumbikfu uhokuvu li."
+  },
+  "apiKey": "b3c55da68853afecdc5f3f97de5574e720743123b5eb994dff8ddf95a7b8d277",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}

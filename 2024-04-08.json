@@ -1,0 +1,26 @@
+{
+  "name": "Olga Miller",
+  "age": 20,
+  "address": {
+    "street": "Vadic Circle",
+    "city": "Camepice",
+    "state": "ID",
+    "zip": "19435"
+  },
+  "contact": {
+    "phone": "(353) 485-2984",
+    "servicePhone": "800494223"
+  },
+  "birthday": "1972-08-25T08:28:01.299Z",
+  "ip": "114.246.204.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Lupgov ohsa gar mutev lapdik nem kesog ewliguk pareha mor mokoglok en li geh dunoho me. Pan bog zun citor rojka gomhuzaf la eb feujosim uzkar etmud jec dorpu eluboru leh gaavocad cumewa fepugis. Sivba ar kufcuf tu fi jeaj ruwlej jal sohhuag rehif veedu uzufa fasfegje potci nu votucur fatockur jom.",
+    "bio": "Muk si owazo bacjetu cij li ne niz ocaigadu uphe fumpajad heok hodohibo. Gupo eg mesenje kurahtak ijdamur batab gengu nir ponmocu nibpim zenolha ro votnud idruke. Kewwuzu otelenge of af soladok kewod ojzurvum ubrizil usivuguf ebzow fuhna is zeirva peho zo we avbovu ow. Zatem osa zos denarac cowiteji wa toncad pafgofor wa akpodfow fuh mowe ipoel bonhajin ufjire nesojjiz mefdek. Cip ipge emowicek pius bevtu noufdej bafukse usku danhar te ji ariwzi lezper sa. Ziumlar gaama basojle udoceb sawmevzo ognuske lihi haknuh gaperu uv ubjuzar osi."
+  },
+  "apiKey": "f88a4423cf6524c24f9dd0f0dcc3b21faf7ad1b936a1c4f21b7dcb7dda504325",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}

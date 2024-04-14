@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Love",
+  "age": 51,
+  "address": {
+    "street": "Lizo Place",
+    "city": "Kuinfuw",
+    "state": "MI",
+    "zip": "55437"
+  },
+  "contact": {
+    "phone": "(220) 369-5325",
+    "servicePhone": "800767295"
+  },
+  "birthday": "1980-02-01T03:18:47.935Z",
+  "ip": "180.141.211.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Sifa vubusmu liza bon orehu mulwoti hokucem wa nucu wewop fazhis cuwpu tapordom rabit ugefza. Di agajiipa ami ciduniz siglojzi banil fuz ran su viibate pabuvod caubesa poju gusnun zuk. Jes tuhocawe avzosek gegcakpi sa zipriiz boz duze degol ju lidmo fuhmoz agagi za viti inuefdom lafvub.",
+    "bio": "Zesimu lalacnut jege un abitek abilocev rojelud ro ocaluhsa ada ze gih ukcih puvvovjim logowobav vejo pike sizwarja. Futbutwe juzela pin to retsarta lalcuvol re ninogtam jolcuh wumihades fi rebza kewotaka gesusi jo uloso. Ji mi vucba cajtawmu na pacsel vamlezso hu sumtisu apdit ahrownon ekelofec zismus. Fej rofutuj cublicje go bun cafajib dol ruvoab nam tomuvan kahipaga jomul lijwak ge se valusoj pew. Oho diket hufce rajla ajito maopgu omjepop gotoproz ci ecojo efo za bezgiej ilu kim nekoghe. Az asjiba ar log weusjub taow lafbu ej vatup iki wod vecmesa vaubu lakbi po olozugi."
+  },
+  "apiKey": "dc75b4c49406f0b450090813084cc3a7c1e5657ae1331cd26dddf9d00abe77d4",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}

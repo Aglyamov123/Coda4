@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Guzman",
+  "age": 18,
+  "address": {
+    "street": "Dabe Glen",
+    "city": "Agline",
+    "state": "WY",
+    "zip": "43480"
+  },
+  "contact": {
+    "phone": "(956) 491-3616",
+    "servicePhone": "800912329"
+  },
+  "birthday": "1995-07-31T10:20:28.050Z",
+  "ip": "222.58.169.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Webadeli nihnooc se pavirbo vimduzdev zo vizot da umanu esuvezif ca venuhaf padidu. Vo zoihedod sinebok sef zefedesen gib noh giktem poh az agu he nerina rilejaka vumu olguzoli. Jujci lugumfi vel su gu vokif piha ala mileg wacwom kinun evonenuw iwenum ofo cevfem evo. Jo zum hov ecucuuju je tueta ku nic lo defubgu puok vuhamu.",
+    "bio": "Lanu siwobu sanihton zep rinecri efzel rotew ubi hehtih suvepni fecjoj mom ulagiwu ge ig sof. Emiba in bak fegvo wi evufener gaccudde bog ciw caunofu hewaf roiko lodagi. Regol goz nic udgulfu opuuhumug vuifjek huule raliw zugibet fujkamet tueh izzoc aw kot rav aluro. Baroki neso socvomog pu zebit zodafuri is fomiffog retickap opge raf mean ru ajvi labecu cihe. Fu mop guhuefi towuz jevmecol di morcaeva gopna ezuce ciwom mo usilo wenouj. Bahce cazutoc gu dote wialmer akgaam bifna himew hudejtuf guojse ruk ga jul wig jopol. Vad vil roz za joseug vauw celgito duw absi fetso puji durbiw."
+  },
+  "apiKey": "c22928fc10c07d454b32b1d2faf56cc7ec608e775184ea576e31832658ffa8f9",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}

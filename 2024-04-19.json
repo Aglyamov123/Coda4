@@ -1,0 +1,26 @@
+{
+  "name": "Lucinda Pierce",
+  "age": 40,
+  "address": {
+    "street": "Insol Heights",
+    "city": "Fihpavah",
+    "state": "RI",
+    "zip": "15289"
+  },
+  "contact": {
+    "phone": "(345) 917-3842",
+    "servicePhone": "800853765"
+  },
+  "birthday": "1990-01-25T04:07:08.038Z",
+  "ip": "206.155.140.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Bujnate ehuveja basip fu revarzod ig ifi jidib kiozotu romra ahu ababu fe hivop tid. Ga en porgeb nabbi mero nok alsitev simencuw garabzij muhtejo et di pap odjaot nunuhke ki vejotu. Nige ivisowjo fet rip lutuwonu lujukev wugecece judjikhah suvacap ofze buozeem peivra en. Zidute sirbiwa ajeozoruw fu luvi tawweh ukave mep owewan vozo do meznoavo so jikju bipvinpa rig.",
+    "bio": "Le rezar loekidiw tiru soleg lu zo rum oc zej baninta meka. Josveni ekowam ralbu irvi mat ledrovca lelok osofujje rebap mi av ohmo zini mi. Lu cochivo jagcagzup mion zimcer mepir kiza tekcud itautosu meziv hanoj rumo guf soefba punuw sacaje oseapmo hiramepi."
+  },
+  "apiKey": "fe9fbc5d36032f647ff1bec47e26707e2dfc6d168ad63ad2b8fc900b360748c4",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}

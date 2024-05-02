@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Clarke",
+  "age": 64,
+  "address": {
+    "street": "Hulos Trail",
+    "city": "Wofkerto",
+    "state": "WI",
+    "zip": "24349"
+  },
+  "contact": {
+    "phone": "(555) 593-1726",
+    "servicePhone": "800831143"
+  },
+  "birthday": "1969-08-18T04:38:16.096Z",
+  "ip": "39.165.105.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko hutju lowu lowe jo oju obo de wa jogka vumuow kezdu zojus acugilpo jukes joced ure sufbe. Ev tewoti difgoksi eja canoctit uk idu bicemle de codlinlu ojono olwobi. Cawhajam jus wemowal reaveas ke naz ve anar esodarsa lop kewkek ribho podcofoc hikajwa atowotus win bar waozaku.",
+    "bio": "Ko oc ik zeti ga behga ejakepet luruepu kelkom me espit uli zi. Kogu zerefu miemvom git racuvu ro rudlibvij larut conip eg vahta ce som entuweg keliptik jikudno ro. Diwuli nefi ezobomam colbit vu putu ewuha ezigje najejeki avu sogaj dagcael catunwok ohoje zaw fu od. Hahawjem ehdi ebaeh fa va hev basreki ro gizebe ves duwromvuv pecbe. Pimmojuj pacwum osukuse tuvumun kaldujide ralunru aken emivadvo eka cur gu vidal. Touwumer vepurih ogogazik sedega do zez romniha zasig taz das ce tefhatcud bun re kasoga. Cu kabigi ma zizowo nofujbi zajditud din jepu ge lob curuhpo zijpiluz."
+  },
+  "apiKey": "02a6d03546fc2daf3faaad311654bf8f2dc1cd90aa97f657996cbb9595bc7270",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}

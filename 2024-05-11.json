@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Lee",
+  "age": 23,
+  "address": {
+    "street": "Gapco Path",
+    "city": "Vefbongu",
+    "state": "OK",
+    "zip": "08437"
+  },
+  "contact": {
+    "phone": "(360) 798-7794",
+    "servicePhone": "800164779"
+  },
+  "birthday": "2000-04-13T04:47:41.976Z",
+  "ip": "200.106.181.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Jal wojupmaf orafo alosij hoiz ecagotced fojteduh tepboj pu el ani achokfu ihojasti eho asa. Fohahun modemsoj doigu hujedeubu vadpec wu ku aczuvvis affetvov ogowino usototan coubkal vez aj enuhfer tarragnop akagalo deces. Fo av ejael som nosfom wuz do gor voludgi zu gunap ipewo mar iteug gur zumi. Omutun fatejwe ug zi kotbok va kesod cuhitlu be ju reutci genew sa sok mujat ev gobaggoz vasun.",
+    "bio": "Zi zecog guwkozul wimbuloc dec bo igada cada babammuj iwzevli afelancug ozitosiw zu boroc. Daw rajfugso tiru fobhi ovfa if su mekofe jowde veh do ziko ic ufrek debcekav vajke. Olibas mejuw dow vi tibnukfa cekhawco kapu gas ne wa le tevwiw gec kokewrur hojpufjas."
+  },
+  "apiKey": "7e5dc97c61376ed243909ae6ad9148dec3b50ee859b92a4c57c0339e30746920",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}

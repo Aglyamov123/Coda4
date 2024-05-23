@@ -1,0 +1,26 @@
+{
+  "name": "Derek Roberson",
+  "age": 30,
+  "address": {
+    "street": "Lunal Pike",
+    "city": "Ulohipu",
+    "state": "CA",
+    "zip": "93802"
+  },
+  "contact": {
+    "phone": "(264) 549-8567",
+    "servicePhone": "800946921"
+  },
+  "birthday": "1978-01-24T09:29:58.405Z",
+  "ip": "210.165.57.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Wel mab ihiege lahe re kofso mojwihfun biv uf liliic jaubu lej erfahje. Ij siuvhu vopo lac jib kihdizi cogotveb rabagef wabzogi mijufefup fiow ju warof eti aba hunokne zersovpig. Mi javuceere todesgo judeega re kegobugo wihufir ritvivzoh ca iczat ez kovzi opudon zinnosve famvejtor nofudpik wubow bizmot.",
+    "bio": "Labefke cujihtij cak gij cu bunvilo recvowva on kurovli uvref izo jom luzkutmap. Puaro powatgiw lobed tifamzid uci soro guk je tueb fas zobcibe kat ova. Ti ek ifebunem zutoj ura hih zevopu acibooti maljuiga culgovi girga tivu wedgasfo okain tuhed roiribul cisifekoh. Wolodco vulipi ta backoc gutrolvif vause kehi hej vece jimad nauz ipa wovum."
+  },
+  "apiKey": "ca893c258ac70c778d1584e69dbe1b9fa0a6c5d973c4510409e3e72289f51a4b",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}

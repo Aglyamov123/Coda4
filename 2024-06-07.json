@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Ferguson",
+  "age": 31,
+  "address": {
+    "street": "Ucupu Turnpike",
+    "city": "Itoigeka",
+    "state": "WV",
+    "zip": "40910"
+  },
+  "contact": {
+    "phone": "(669) 960-6785",
+    "servicePhone": "800838217"
+  },
+  "birthday": "1968-02-17T10:33:47.267Z",
+  "ip": "155.184.72.118",
+  "foo": "bar",
+  "profile": {
+    "about": "La koasook ejeta tocuaja egoh ji penjetu ti ug fumpevi fehcer uwebo ejpuner. Gug fif bemjelniw ta bo igucon dus badal tupuvihu dihjo nuduwoce darticu zip jofu. Be lajo wipbaswuk seijigu sumakge depsi ses umvujoh tomherfu loppili iw efova gatpu voozge ulhicdef bepemehu.",
+    "bio": "Se me jojefma huh heb cu musobi ful jamefoset fujowunef hoima poag ce fodna. Pigo duinogi meb somfifkil huutu omuutu pag senaz wocfo jemtorus huwamefon liv. Bu na givpub fusmuwu jujfatuhi goh weige ef ite si dasmad bumedis usidu. Pi parud suzurow pek hawiwa niole afosad perdal fo niwow wuitano vo ri oresat izewe."
+  },
+  "apiKey": "62f079734b2f81c5cf057cb250e964472865e9ba2393256539d620323c9c41f4",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}

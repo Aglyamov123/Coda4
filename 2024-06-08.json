@@ -1,0 +1,26 @@
+{
+  "name": "Irene Jackson",
+  "age": 30,
+  "address": {
+    "street": "Odivec Avenue",
+    "city": "Mikfara",
+    "state": "MS",
+    "zip": "30698"
+  },
+  "contact": {
+    "phone": "(630) 200-7235",
+    "servicePhone": "800814699"
+  },
+  "birthday": "1983-07-18T12:38:15.328Z",
+  "ip": "135.232.223.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze mu bookekan raavu bejhaw dah hil da imealo ku aw kavej jiglev urbi puktib hibjez. Ka ve pulpap bizho bov ja odtot figosja hi wicacdi baid talupig utuvulzu ferkauka lidwam ji ece. Hu givrut cic azgohfur ikirut eterozas bi cajkelen do suj uz omokazni dacake ugokeba wu mutjirbi. Pife lej ce lahzuwil sijpip wubev ran ocopojsi johuwlot afri zu zibejo.",
+    "bio": "Cicib opdub le bacda ibbe hiz jatagu tu nojesac lizide juhu hivedu ihba fem jip tiorabug. Rav jevab re rookecin cupid ageluiw miveh kansanon bajha zewefko he bici voz. Beju husboiw mazis vepadval ledur red aducimtoc bub umefisec sa ekcu uco zukoheg deatoro upu aresan. Enebic na taci zogan ovduc zihujuj wueba umo tenah hucbuh dojahov befal."
+  },
+  "apiKey": "e9d73d95375ba33f85190052fd7741650aecb90d9a4ce664bcb97ea429444aa2",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Mendez",
+  "age": 52,
+  "address": {
+    "street": "Vesuj Key",
+    "city": "Puetiet",
+    "state": "UT",
+    "zip": "14542"
+  },
+  "contact": {
+    "phone": "(562) 839-7910",
+    "servicePhone": "800342313"
+  },
+  "birthday": "1990-09-21T02:58:14.556Z",
+  "ip": "22.123.242.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Ned savvolez icocezu ujazoli nac fa nobig ti odike mi tiv jih du keparbu mi huviri mepoja siw. Gife isetibup ipric omnessok iwemij isa niesu cus ta hiztenabi ga gowba ukmisic kom. Vap kimavu bewizviv sinwe leduub sedaka ziip abevu wukwuj ug san anko.",
+    "bio": "Jun ibokikeg ucrolol arenov cozlo vucehodir kodu egunure edeovme diwewosi hacuc dufnuho iwlo dohil disfovbo pojfejpe. Roh padgaget getoreke zow ehiibfab mog jo latobzom mu iwu loclagen hofedoav etvumzem seetova huhuso. Otuje zus lohiwa vu to esamak hot fufto etoadoik evdigrur wivdo pil. Rumima bugwe kobnimwu piszu go ihdutaz ce rudful noarwu ejofelzi lofarhup logi niufa."
+  },
+  "apiKey": "d9c764f00a62ac4e5b79d9cc0290293119c42322ce37428672622e297d77a500",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}

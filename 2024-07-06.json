@@ -1,0 +1,26 @@
+{
+  "name": "Virgie Beck",
+  "age": 31,
+  "address": {
+    "street": "Emeaf Court",
+    "city": "Jelovoru",
+    "state": "MI",
+    "zip": "56400"
+  },
+  "contact": {
+    "phone": "(821) 707-5008",
+    "servicePhone": "800262138"
+  },
+  "birthday": "1987-01-16T12:34:47.871Z",
+  "ip": "249.90.140.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Jufmuvoc ab lakugo bumpag baaw mohahazo zone lutrun guslebde ge ec cifzi lappage. Sav ufe catufar je pad zuzaw vi ol ferve on nahefe ujnuhfis titrawor sol di fur. Zeuwi fu rud ocuwalu pun aji gulgik zulju tus ritukgik iwolweb wojdam hon zuw. Maiwin nagojna muparu roru venu jod fe lu il hucalte naconfu ewa.",
+    "bio": "Lurgico kofum anaco wugop huglel uc ca ajeege ose ci ma jahotje et negco zuvkirozu wo pe. Gimej rufle is oziwiz fil wihuva gedi ep jibohhot muwofuj tahofsi olapail buwew zamukdi. Zu buwtof erisodo juv urne ic uzoneuju anzoope zuirvam du fuf lejov."
+  },
+  "apiKey": "9d0f63c3381c2e445202a6670340b600d752ba4c03536556a6e68724d2e6fa7c",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}

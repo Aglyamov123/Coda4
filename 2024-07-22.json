@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel Blair",
+  "age": 43,
+  "address": {
+    "street": "Velud Street",
+    "city": "Porete",
+    "state": "NH",
+    "zip": "73933"
+  },
+  "contact": {
+    "phone": "(517) 412-9238",
+    "servicePhone": "800377392"
+  },
+  "birthday": "1993-07-05T12:30:10.263Z",
+  "ip": "231.121.80.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Ut zogmemor cofhuhuv pi miwe luhe toffu isame hiwicik jewmilij ce jakadi mi zolzuk leoje. Gaobi oke cezhi zicak nopowup urawiw umdole webisek uga co sa vew. Fewezo rak fagefis gipfi odepe foikga caz nites uti efutujbo rudku femugi rugured new cadol vag ivi.",
+    "bio": "Pi mam ka ikaotok woec zona ob zifecepa dut teffim on wa rom acgid wiv. Nuvcagac beh ci zun hum nauroin wilisibu wewtovji maf lewi mahof bup. Redo vijejji on hobmop ne si we nir we ut bevum ned. Niaho amo egomaod kodve ri nuf nap igu ek up jibfasmuk hioc pa ab. Tem cadvekac utuzasav datu vef oplajuw lo ke naj wo gaib gemaseden kahbo jofgebaj ju."
+  },
+  "apiKey": "09a511575624542da94d7b489f497335a70f0988c2c92fd6a11db02a0585fc77",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}

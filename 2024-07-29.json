@@ -1,0 +1,26 @@
+{
+  "name": "Chris Tran",
+  "age": 45,
+  "address": {
+    "street": "Geamu Road",
+    "city": "Jafifu",
+    "state": "NC",
+    "zip": "63239"
+  },
+  "contact": {
+    "phone": "(284) 759-2434",
+    "servicePhone": "800693375"
+  },
+  "birthday": "1999-02-21T07:38:41.866Z",
+  "ip": "145.223.28.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Cog kopvuntec ugejveh fu ij nooz atlufot otsiwi dafimde cud hunahkom tanjubes. Tuzsit nok wojuwufat jofjor sujkal fet getafo weruja mapajkov ga pehmoj luw tunbu. Ac guz cime uzlezboz iffoal lawdac zis foz puapi baevhof sismeb sihe la sewpe enuca fi ciznitdu. Sawofkaw dokridu polotogo mupkoto me mukvuj bugwij calib owulew cuhivju zobuciad avo vu fader oci komku. Badeno wackahbel bozujje becif du kiwafak lockusa hu diilace rif mej ufadodir zudhufubu bisen ja gorzin sehiz uwizotnad.",
+    "bio": "Ihe ciz pozowof el du gilarom vi rok uwepavi uc hirula ukizowji ki imejefo muhaka. He gonpekwo itejosju pigaguf og hi sitevoweb osvam wuisiki jo jacuiho te fi zid ro bonib rilacko. Liki bomifke hembajo neh wi hor gibaj cusrauki zafkujciz tazame nene wenri vew gieho bodut lollogfif peki gideliw. Fosmub poput rawewodu mi teipa gileb ejzaku lasmesrow budwifop etamargi ohuanfod ji ana dafmif je kubze ehikuzo napekfi. Huwin zuna ves uhovaj nup ta gedca na poedsi homuz irle lalge lep nojpatfu roju."
+  },
+  "apiKey": "ce78cb0b5476e69a07cd7819555f6549b7ac47e9a051275fe1bac25dc824f493",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}

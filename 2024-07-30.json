@@ -1,0 +1,26 @@
+{
+  "name": "Sally Logan",
+  "age": 30,
+  "address": {
+    "street": "Lilfe Center",
+    "city": "Enmiju",
+    "state": "AZ",
+    "zip": "13924"
+  },
+  "contact": {
+    "phone": "(610) 745-7318",
+    "servicePhone": "800617367"
+  },
+  "birthday": "1999-12-19T05:55:08.964Z",
+  "ip": "87.148.163.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Rovafno mawibuw tazbo sehera pasehlah lo zaito vul fiojekuh ir seguk jaud. Ozvuf ce liseman jinab vetbi uf hanodo zagjood bosuwi asudimduf iro oko. Ker fafoz wo nujkono cias anouz ciehfaj wo pehwuj lo wibuvfic aha. Tocpulis netohov tugid icdokib mogdodjum ji fajuzno izaji hi vibogazib vu joc maetamok gisu riacla kugef. Gesceto zonco ocno ho hi besca sem ku cundarem cicejimi mamwut unfag.",
+    "bio": "Nicjoh rakzuab mikje kiigrol senof kakucdu beco do majto baklora doka zicsocdav. Gafmibpuf nip race ozva zu fohci ecjuz aztigo wig ewo patmaj ceb ab toze sev piggat daj. Jolagrim vunupami wekuka uvure diwze tara conlud oguwot ne kozev agegu fu avous na soddam piugu fotehu jeruuz."
+  },
+  "apiKey": "5d422a7a959c0faa9f19c17653ef62cb82e424d8ee84edb5c6c4879d8bc323e7",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}

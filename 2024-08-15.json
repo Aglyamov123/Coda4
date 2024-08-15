@@ -1,0 +1,26 @@
+{
+  "name": "Tony James",
+  "age": 18,
+  "address": {
+    "street": "Cosac Way",
+    "city": "Bubsohono",
+    "state": "MI",
+    "zip": "67902"
+  },
+  "contact": {
+    "phone": "(266) 441-1865",
+    "servicePhone": "800688174"
+  },
+  "birthday": "2005-07-25T01:08:00.394Z",
+  "ip": "4.35.162.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Ra niiwaiz fihap attagav udomuet ul su ga bo dolabdu wo po ilamajnig edaupe ciaki. Mefbes wuel anoma otovu watni sodsatac du fejer wuv hadafiv weswi elo vomoc. Gaub pisu linizpi jujfeh gadada na doddu seboh ib kipmipu lo usawu wodehul dowul.",
+    "bio": "Tihah erkolaf fi hihokla zaspud tuflepri ima gilwog ko ebu nu da haku. Ilka cen li zatlic oki bip oha we cilko rir wumis negik. Cecke hupje uco pamkah ubobemuz ru ewzawaf sup hobuhov ab zobroc ruk nafgoj mok. Mejeisa jecom kolsu kafzucfog so cic dodi job hoh nof wi jahaase fuhudul renhuiv al. Zep hijodewe ajduzu di furci ve favelnej jemsuful ojdeb nanojin rivihed ruha sugbifsol aliowo dowigzas ukpati je gom. Merimi humno kaszug ivlol jitod di dourozi de gop vuaci tusav ak dacej enzenoc."
+  },
+  "apiKey": "1834391e8a9538a90f9b9e18d911078735ae6c433e3b348f46d599707b44e906",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}

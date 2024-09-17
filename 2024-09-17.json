@@ -1,0 +1,26 @@
+{
+  "name": "John Rogers",
+  "age": 27,
+  "address": {
+    "street": "Kooda Lane",
+    "city": "Cuvemdig",
+    "state": "TN",
+    "zip": "62741"
+  },
+  "contact": {
+    "phone": "(267) 774-4706",
+    "servicePhone": "800762899"
+  },
+  "birthday": "1986-08-01T08:42:34.809Z",
+  "ip": "86.189.91.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Getmuuma rak ide so kacogdan dujvag baj faor nefa paozi suwabih immo hajgul. Ej nonam vabsi dewhim cozneh suigo nar ca rukfoba hi ner gatle. Naalis pi je pumufir ger ve duroaku dipiguna vah hubodsi oripaic egindah wuto gevvube. Ephij vozmiljus wikkuvwu aci imroizi nenlezzu pe zicpehkof muebuvi zit jibnisazi ohpogciz li igofa dok if solhiptul geomwu. Sel haovrud po uzpentil falipariz nerzuto bemuj umwobut ubunacis tikcupoh badadi pus picib kizofisa monpun bac.",
+    "bio": "Bu rikujgoc cersag celdike uco co wugifu osura kazkimi tufoupu keehu uwilidaz. Ranoto jed ohahe do beuw lu vej ufecigta gevjune nurouga ji cegno rowceckeg iju. Ca kawoz ek fah vojtusiwe etul udsalobi iv gofoas nuriw tew cijiftij mazge pepec je. Tuptu bi nusfehij nib labem fin vufo nihakoubi pekizopu raco ru bud pukra."
+  },
+  "apiKey": "04b3e2f5ed2ffc310916c90a52c230cc1264ae612012e5fb86e3a16a5ef606c4",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}

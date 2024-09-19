@@ -1,0 +1,26 @@
+{
+  "name": "Lura Porter",
+  "age": 23,
+  "address": {
+    "street": "Duajo Avenue",
+    "city": "Lolufma",
+    "state": "LA",
+    "zip": "93498"
+  },
+  "contact": {
+    "phone": "(764) 801-7420",
+    "servicePhone": "800683268"
+  },
+  "birthday": "1999-02-19T05:44:10.252Z",
+  "ip": "151.141.186.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Huhe vel podcah miwiv sewtebpi zidot idejukcem suduuk ekukme reagi palfa meagu. Leser bitjoc bopufab ja cebpaj tife ded tenude epofalju fadutdom voloh rebavih dackemca unaih ogtuj umsatju. Curakta ukemewen jopota sud fuddona sibwetor me osauwo giebmuj wetihzeg rogafet wiurven cuapzo vedmej. Hefabbi monahfeg lirotidih otoku ujcoplu ibi muate iza de go cun datodan.",
+    "bio": "Pirhawcop kohebhak navzus bazecbu loj juop oj hehu seg li mel bu lujfop foaguho bop. Riaka lo fula evahikke caevede figuwlar lezirobu lihkur he ca tersat geitu rurer hed wecap jaudi baktak. Gabusi rafej nol gegari kon bakec dot fes cofsu lamka wu gozri fugkizhaj ihohilop ma ru. Teturu licamha jevjideb forulo ri odu ciewe renag diku cidomonu nu kel rahiwki lufauhe zusdo. Zavuneb huezuac lofuchib ic pob edidavu vigwos siba lug ek buv tezumi dohil napapof gamace jowe rode di."
+  },
+  "apiKey": "9af5e28595d1efa66768fe6fed39657ff216ab2d8ed6908493d412e48a4c4eee",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}

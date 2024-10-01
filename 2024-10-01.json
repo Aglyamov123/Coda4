@@ -1,0 +1,26 @@
+{
+  "name": "Martin Jones",
+  "age": 41,
+  "address": {
+    "street": "Wiani Street",
+    "city": "Puneje",
+    "state": "DE",
+    "zip": "32344"
+  },
+  "contact": {
+    "phone": "(725) 742-4768",
+    "servicePhone": "800363391"
+  },
+  "birthday": "1987-07-09T12:03:06.681Z",
+  "ip": "143.17.222.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Fucizozaz memvi wim guciz reha huamora ereme dot kedle zi asoge ivu sev. Oputo oszej vebsuk zikijnof ezala zoki fe ipwig ku rup ba kokoki nairri revum. Diof sebo sivlaw giulvig gobipki meeza wunwoci dazifa ja ficjob mel veojbu daho ahe.",
+    "bio": "Oha safoce gifpeddip puvatazi hetazi biiv nef wezaci vuzmo kahpitag ibudod teluzob mecgewgel ke ce fuw dovgoc jow. Cig agrahe irhed livnier tohzus duw genud ceczere wivbiuj firkog tumo uzbu efuhdon of cewkoju law oc bif. Dugjor et hiznu zajnucnoz bum vuwew zuhhiwmar ha pozil oc captejzuk omawugu hacuwic duwma."
+  },
+  "apiKey": "b775867de60e58864e3e7ab7163af1be0af438a08d559b4a724a63f0144e1895",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}

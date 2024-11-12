@@ -1,0 +1,26 @@
+{
+  "name": "Cole Davis",
+  "age": 63,
+  "address": {
+    "street": "Gize Street",
+    "city": "Pikucu",
+    "state": "IA",
+    "zip": "33067"
+  },
+  "contact": {
+    "phone": "(886) 639-4684",
+    "servicePhone": "800427923"
+  },
+  "birthday": "1999-07-09T02:34:30.080Z",
+  "ip": "136.91.9.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Mowzomse gopzewot upe wepkiper osenat basmo at omdeho hu ci cecamme nattuc. Biruzu uduzupuc ozduj nidtufir bahhud ikema ul itehotluj evgawum nolzibac gavi di tofgo doveg oseros ifereri tu big. Ve el nucto sedci ume dajodoruf buruvcit segut onuse ik daj ic dopogo lekibida upiufa. Vi wobi perolu mitzomezi pohiwbuj ja ak huvoid bus mitebba vepwi ohsov gudon mukac. Kofpo utuhuku toh tor kiuzuuf hoohu likca vuho ekpokri nuwkif zo nercicem sutes mijose ibo pokmisbo.",
+    "bio": "Safaho ji tapeel negpanik menegug jumano kovukuove uzevowo ca sewli budo zidijfe bathaled toc munec soackug naros. Sur oh nun jewo sowkugnot te pi hitiki gesu ku barobpi ivcoju zuve foeji. Rafewna uhedu sebagma zo mu mem bu deaku golu su cef za poojma woplupro. No emizod hidosnes fuajeat hujguwi uh wojosu zu zehup cuop edok vizak tamubtup suzarov saw. Puzmuh fawmuvwa ehitodsi jet wum surnaluc riwafow kakrap pec pacuamu jejor mijvohje."
+  },
+  "apiKey": "5adb7cfbc4009d3d54e737806a6cd40f9dc42dbcda0e511861d382c9492a2aae",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}

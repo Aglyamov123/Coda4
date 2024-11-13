@@ -1,0 +1,26 @@
+{
+  "name": "Randy Norman",
+  "age": 18,
+  "address": {
+    "street": "Selar Path",
+    "city": "Kalucjig",
+    "state": "IA",
+    "zip": "40569"
+  },
+  "contact": {
+    "phone": "(653) 433-8197",
+    "servicePhone": "800385495"
+  },
+  "birthday": "1971-10-31T04:38:52.790Z",
+  "ip": "66.88.123.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Ganozle iso cofobo diwoda utjecge jafat vati recu hi encew tubsurem tibic sivsusva tijeh oz epneb karnu. Pelihev sowuces ul viman vun ri vaf de vake tozfacu ta lofmojet ni rur zadge kaahla asaf gozihnun. Gi gefuj vo jur nulwefpav da lejupowe aghaj pomwir zan fube uzonis vajti calawu. Geh hupnerva zewu haruloda saklalot elig gujwi co mulegdu lala aruenwa okugigut os fume tawteba zip.",
+    "bio": "Pa foil vanpe sa buiwagim af vebaw lu awefar owo vezu zis mowduf pa ocivoren. Ajofuwen tautu pos uvozeram la hiknimgo ri simfom buw fokihpa jutak kez tiffijpi bapalfi. Esu pid wab aroiz ezle la si agmacvu zuvabdek go cel hus."
+  },
+  "apiKey": "ad3e85faaeb9dd7a0e64684247d893c235f0b1cd8f25c1e2719c7d9c9e9c1258",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Emily Miller",
+  "age": 61,
+  "address": {
+    "street": "Gicaha Place",
+    "city": "Zuvlorat",
+    "state": "UT",
+    "zip": "09138"
+  },
+  "contact": {
+    "phone": "(531) 711-7607",
+    "servicePhone": "800768745"
+  },
+  "birthday": "1989-01-29T01:56:28.568Z",
+  "ip": "225.252.216.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Lahiilu wiaralad roz ucor funoziiwa winosa upde kazu taca emeujenah cajmocom gawim. Ubu uni betel ono mig kap iwrafjo ve lulemdo pazug tek eguuvte okupetmi. Vugpijhik pu ra par ibo fokkadu hoelwu ivwoc moz vuruztu fi gub puzuri minezwa ga.",
+    "bio": "Sic tiw fibogzi bim hag ridavet bepki ufofu cukbef basjop macivi lehafel haraj guhjocdum nu iwu. Ileafzot vusvioho deralo bez co bodra cacrul mufjona nincesu gunmawalu ci owanofif. Nuvvuleh ajmok ahufuv le en tib kalfin ar acgerbi macefki od wedsam ci ginol nuw rogtu kokranok. Ufeleike gegiv acem wovitve niejosul puuz sin cadipuk zuh awweh ujcatev tenubiw tur. Eplaf poowamaf fozul de kaitaki to gonacgaf hutempu jadzakju lopnebu er mifbocow colinre we. Ena cotcum vohah anu mot joih heaf unenuj fil ide welpintu uvo opehpu vano. Ij wiwof cuja tosdurot in tileda wifomobid minime al mives rul zon bov mat mup ramame."
+  },
+  "apiKey": "4023ea0031afea05f3373d14ac2d7f27c19049b4cfcf14873c2e297841b56926",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Hawkins",
+  "age": 27,
+  "address": {
+    "street": "Niku Lane",
+    "city": "Nihjiife",
+    "state": "CT",
+    "zip": "56154"
+  },
+  "contact": {
+    "phone": "(860) 613-6337",
+    "servicePhone": "800732616"
+  },
+  "birthday": "2005-08-01T09:22:37.591Z",
+  "ip": "42.222.162.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Loblag ludi uvogeziz saimcek vi kun biekahif ip wabuc pe ufo ihe legam in azrop pu cizcaf wad. Kenobsa ig rilewa sizufup mo moofcan azo fudvegsuv tuv ficulu nune fe ow boezwo asuzuhab ko. Lej zojuaje misorzu nocnien levaj bethoipi akifovder johacwa mazwog bonfipce bim gufouh fitam oju.",
+    "bio": "No zo uha tag nog vedepu weldabo fef ofi anmijo jumelsud emmup. Corlo mesvoma bomop mueliju suwcejed bih basus ciuwa jul siwducmo bifef okoreujo la tapub sezepcil bu ujnaffib vet. Onoere tod veono zazesa duiture owa naime va otluf ab nib pusa dehvagpu rehetrup kowi sena buoko datajuvu."
+  },
+  "apiKey": "4b22e723db905d90150ac313a203e0eeff656bc80d9f491f7411be872c1b3af5",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}

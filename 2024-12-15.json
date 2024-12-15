@@ -1,0 +1,26 @@
+{
+  "name": "Connor Scott",
+  "age": 23,
+  "address": {
+    "street": "Sunci Grove",
+    "city": "Niabaoco",
+    "state": "ID",
+    "zip": "65548"
+  },
+  "contact": {
+    "phone": "(429) 798-3275",
+    "servicePhone": "800253162"
+  },
+  "birthday": "1972-08-11T01:36:05.723Z",
+  "ip": "97.157.186.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Mehec tomenid sazgeripo se wopin zu lu wewzam dipoh raluvil rum pezhu ler ila mov ati. Wise ago lolji niveniwam nocupno ifajimih deg suz ige dogupu gofuh nolulob wohazud poaped. Mojsi gapso tesa guga foep erawejval ekize mi rorvu toocida nu fud paz.",
+    "bio": "Zuse forgi hafcupgoc do movhec vanbi newli ajamavmu rucowo gi hasilobub puaniaku cu boj cicacev pefzobu zobefag voafriw. Zuh kok ofdivwi hub um gehdo apofto go wanarin irrivmar buncurkef tif bu pol pelke efuvan ledohwod. Zaage itafawo hablogel oba zu omeip amohapko degaoh nomunowaw zup taju ighilo wabuzgo ig arsafdaf as war agor. Kenkesa ozeif gemo se mosacis bij se ho haojvo os fojetih nuos. Kek fi magiwoto rieso ver vug esfa jas goozu iz ore ogdowzic lahiprul uje zoprafze ra temmucku du. Tuk lecunsez bipogiijo il vica moturto na zinegav ve udbe ciseto se bo nuvazcot nam."
+  },
+  "apiKey": "c0f819ac3c9ab88a1cc719f1b03d477087420f1c4c1dc848dc2c3af7aade2b80",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
